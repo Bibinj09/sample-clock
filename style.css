@@ -1,0 +1,14 @@
+*{
+    background-color: black;
+    overflow: hidden;
+}
+.dclock h1{
+    font-size: 100px;
+    color: yellowgreen;
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+     font-weight: weight;
+    font-style: normal;
+}
+
+
